@@ -1,0 +1,8 @@
+C:\D_and_D_Web_Proj\bin\Debug\netcoreapp1.1\D_and_D_Web_Proj.deps.json
+C:\D_and_D_Web_Proj\bin\Debug\netcoreapp1.1\D_and_D_Web_Proj.runtimeconfig.json
+C:\D_and_D_Web_Proj\bin\Debug\netcoreapp1.1\D_and_D_Web_Proj.runtimeconfig.dev.json
+C:\D_and_D_Web_Proj\bin\Debug\netcoreapp1.1\D_and_D_Web_Proj.dll
+C:\D_and_D_Web_Proj\bin\Debug\netcoreapp1.1\D_and_D_Web_Proj.pdb
+C:\D_and_D_Web_Proj\obj\Debug\netcoreapp1.1\D_and_D_Web_Proj.AssemblyInfo.cs
+C:\D_and_D_Web_Proj\obj\Debug\netcoreapp1.1\D_and_D_Web_Proj.dll
+C:\D_and_D_Web_Proj\obj\Debug\netcoreapp1.1\D_and_D_Web_Proj.pdb
